@@ -3,7 +3,6 @@ name: Call for Paper
 about: Proposition de session meetup .net Toulouse
 title: ''
 labels: ''
-assignees: tbolon
 
 ---
 
