@@ -22,7 +22,7 @@ N'hésitez pas à intégrer un lien vers vos slides, vers les sites d'autres év
 * Niveau de difficulté :  { débutant, confirmé, ... }
 * Durée : {  }
 * Format : { slides, live-coding, les deux, ...  }
-* Disponibilités : { après mars || dès que possible || pas entre X et Y }
+* Disponibilités : { après telle date, dès que possible, pas entre X et Y }
 
 ### Règles de courtoisie
 
