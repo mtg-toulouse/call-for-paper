@@ -15,7 +15,7 @@ labels: ''
 ### Description de votre session
 
 { La description de votre conférence en quelques lignes... 
-N'hésitez pas à intégrer un lien vers vos slides, vers les sites d'autres évènements si vous l'avez déjà présentez...}
+N'hésitez pas à intégrer un lien vers vos slides, vers les sites d'autres évènements si vous l'avez déjà présentée }
 
 ### Informations diverses
 
